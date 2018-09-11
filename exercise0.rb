@@ -1,6 +1,6 @@
 fav_colours = ["green", "yellow", "pink", "black", "silver"]
 age = [17, 17, 27, 21, 18]
-coin = ["heads", "tails"]
+coin_flip = ["heads", "tails", "heads", "heads", "tails"]
 artists = ["Enya", "Grimes", "RZA"]
 fav_colourss = [:green, :yellow, :pink, :black, :silver]
 
